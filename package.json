@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mvpspl619/js-seed",
   "devDependencies": {
+    "browser-sync": "^2.0.1",
     "gulp": "^3.8.11"
   }
 }
