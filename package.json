@@ -1,0 +1,22 @@
+{
+  "name": "js-seed",
+  "version": "0.0.1",
+  "description": "A simple seed for Javascript projects with Gulp serve/watch setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvpspl619/js-seed.git"
+  },
+  "author": "VenkatapathiRaju Mandapati (mvpspl619@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvpspl619/js-seed/issues"
+  },
+  "homepage": "https://github.com/mvpspl619/js-seed",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
+}
